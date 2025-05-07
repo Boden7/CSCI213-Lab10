@@ -1,4 +1,4 @@
-#CSCI 213 Lab 10: Working with Git
+# CSCI 213 Lab 10: Working with Git
 **Author:** Boden Kahn
 This is the Git lab for CSCI 213 Software Development. One class was added, Car.java,
 which extends the abstract Vehicle class. The Car class contains the following:
