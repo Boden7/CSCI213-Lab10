@@ -8,3 +8,9 @@ which extends the abstract Vehicle class. The Car class contains the following:
 • the toString method
 • the equals method
 • a copy method
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
